@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project, realized for educational puroposes, regards building a reporting system about cryptocurrencies market. Data are periodically fetched from [CoinMarketCap](https://coinmarketcap.com/) by using their API.
+This project, realized for educational purposes, regards building a reporting system about cryptocurrencies market. Data are periodically fetched from [CoinMarketCap](https://coinmarketcap.com/) by using their API.
 Then the programme analyses informations and periodically create a JSON file report including the best and worst crypto, percentages of loss or profit...
 
 <p align="right">(<a href="#top">back to top</a>)</p>
